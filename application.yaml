@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Ebonje/2028.git
     targetRevision: HEAD
-    path: ""
+    path: "2028"
   destination:
     server: https://kubernetes.default.svc
     namespace: default
